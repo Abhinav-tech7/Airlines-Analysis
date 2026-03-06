@@ -50,14 +50,14 @@ The raw dataset used in this project can be accessed here:
 - Increasing occupancy by 10% could significantly improve overall revenue.
 
 ---
-
+```
 ## 📁 Repository Structure
 Airline-Data-Analysis
 │
 ├── Airlines Analysis.ipynb # Data analysis notebook
 ├── Airlines Analysis Report.pdf # Detailed analysis report
 ├── README.md # Project documentation
-
+```
 ---
 
 ## 🚀 Future Improvements
